@@ -4,5 +4,5 @@ desc: "用于验证 AstrBot Cloud 能否读取并解析最小合法插件仓库�
 short_desc: "验证 AstrBot Cloud 插件仓库读取与元数据解析链路"
 version: "0.0.1"
 astrbot_version: ">=4.26.1,<4.27"
-author: zjj1280637679-ship-it
+author: "羊膜大人"
 repo: "https://github.com/zjj1280637679-ship-it/astrbot_plugin_market_probe"
